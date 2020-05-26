@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingTop="18dp"
+    android:paddingBottom="18dp">
+
+    <customfonts.MyTextView_Roboto_Bold
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DIAGNOSING THE CACTUS"
+        android:textSize="20sp"
+        android:textColor="#8c746a"/>
+
+
+
+
+
+</LinearLayout>
